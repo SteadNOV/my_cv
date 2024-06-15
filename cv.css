@@ -1,0 +1,36 @@
+h1 {
+    color: green;
+}
+
+ .locate_me td{
+color: brown;
+text-align: left;
+margin: 20px ;
+}
+.locate_me td:hover {
+color: purple;
+background-color: #ebe7e7;
+padding: 5px;
+}
+h2 {
+    margin-left: auto;
+    background-color: rgb(220, 241, 233);
+}
+#good {
+margin-right: 1850px;
+}
+h1:hover {
+    color: rgb(68, 115, 201);
+}
+body:visited{
+    color: yellow;
+}
+element {
+    background-color: grey;
+}
+em {
+    color: rgb(194, 81, 81);
+}
+#artist{
+    color: black;
+}
