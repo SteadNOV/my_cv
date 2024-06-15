@@ -19,10 +19,13 @@ h2 {
 #good {
 margin-right: 1850px;
 }
-h1:hover {
-    color: rgb(68, 115, 201);
+#name:hover {
+    color: orange;
 }
-body:visited{
+#name:visited{
+    color: chartreuse;
+}
+#facebook :visited{
     color: yellow;
 }
 element {
@@ -31,6 +34,6 @@ element {
 em {
     color: rgb(194, 81, 81);
 }
-#artist{
+.me {
     color: black;
 }
