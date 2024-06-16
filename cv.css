@@ -13,21 +13,18 @@ background-color: #ebe7e7;
 padding: 5px;
 }
 h2 {
-    margin-left: auto;
+    text-align: left;
+    margin-right: 720px;
     background-color: rgb(220, 241, 233);
 }
 #good {
-margin-right: 1850px;
+margin-right: 1870px;
+background-color: rgb(220, 241, 233);
 }
 #name:hover {
     color: orange;
 }
-#name:visited{
-    color: chartreuse;
-}
-#facebook :visited{
-    color: yellow;
-}
+
 element {
     background-color: grey;
 }
